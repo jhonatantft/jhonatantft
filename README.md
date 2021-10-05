@@ -9,7 +9,7 @@
 I'm Jhonatan Tomimatsu, a Software Engineer!
 
 - :office_worker: Computer Scientist
-- :blue_heart: Computer Science
+- :blue_heart: Science
 - :books: Software Engineering: A Practitioner's Approach **by** *Roger S. Pressman*
 
 > :octocat: [jhonatantomimatsu.com](http://www.jhonatantomimatsu.com/)
