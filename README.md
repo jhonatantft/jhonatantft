@@ -6,9 +6,9 @@
 
 ## Hi 👋
 
-I'm Jhonatan Tomimatsu, a Software Engineer!
+I'm Jhonatan Tomimatsu, a Computer Scientist!
 
-- :office_worker: Computer Scientist
+- :office_worker: If I can imagine it, I can create it
 - :blue_heart: Science
 - :books: Software Engineering: A Practitioner's Approach **by** *Roger S. Pressman*
 
