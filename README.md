@@ -8,7 +8,7 @@
 
 I'm Jhonatan Tomimatsu, a Computer Scientist!
 
-- :office_worker: If I can imagine it, I can create it
+- :office_worker: If I can imagine, I can create
 - :blue_heart: Science
 - :books: Software Engineering: A Practitioner's Approach **by** *Roger S. Pressman*
 
